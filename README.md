@@ -8,5 +8,6 @@
 - yartk
 - slackrrish
 - Classic BS Html WebPlayer.
-
+# classic BrawlStars
+![](https://github.com/slackrrish/Slackrrish/blob/main/Images/Icons/I1.png)
 # other stuff
