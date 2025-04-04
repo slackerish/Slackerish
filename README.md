@@ -9,5 +9,7 @@
 - slackrrish
 - Classic BS Html WebPlayer.
 # classic BrawlStars
-<img src="https://github.com/slackrrish/Slackrrish/blob/main/Images/Icons/I1.png" width="400px">
+<img src="https://github.com/slackrrish/Slackrrish/blob/main/Images/Icons/I1.png" width="200px">
+
+
 # other stuff
