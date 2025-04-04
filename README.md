@@ -12,4 +12,10 @@
 <img src="https://github.com/slackrrish/Slackrrish/blob/main/Images/Icons/I1.png" width="200px">
 
 
-# other stuff
+# Slackrrish V1.o.3
+- 400 games
+- 32 fnf mods
+- new loading screens
+- 30 themes (settings)
+- profile pictures
+- discord + yt for **UPDATES!**
