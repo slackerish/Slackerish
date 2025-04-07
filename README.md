@@ -18,4 +18,4 @@
 - new loading screens
 - 30 themes (settings)
 - profile pictures
-- discord + yt for **UPDATES!**
+- **JOIN** THE discord + yt for **UPDATES!**
